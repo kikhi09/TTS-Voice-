@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "**/__pycache__": true,
+    "dataset": true,
+    "models": true,
+    "outputs": true,
+    "presentation_unused": true,
+    "training_data": true,
+    "training_exports": true,
+    "users": true,
+    "voices": true
+  },
+  "search.exclude": {
+    ".vscode": true,
+    "**/__pycache__": true,
+    "dataset": true,
+    "models": true,
+    "outputs": true,
+    "presentation_unused": true,
+    "training_data": true,
+    "training_exports": true,
+    "users": true,
+    "voices": true
+  }
+}

@@ -1,0 +1,63 @@
+
+# Machine learning models and downloaded caches
+models/
+users/*/models/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Training exports and generated outputs
+training_exports/
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio and voice recordings
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# AI models
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+
+# Datasets and training files
+*.zip
+*.npy
+*.npz
+dataset/
+**/dataset/
+training_data/
+**/training_data/
+training_exports/
+**/training_exports/
+
+# Models and generated outputs
+models/
+**/models/
+outputs/
+**/outputs/
+voices/
+**/voices/
+
+# User-generated files
+users/*/dataset/
+users/*/models/
+users/*/outputs/
+users/*/training_data/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.matplotlib/
+.vscode/
+backup_before_full_split/

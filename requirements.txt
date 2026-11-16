@@ -1,0 +1,7 @@
+gradio
+pydub
+faster-whisper
+setuptools<81
+transformers==4.44.2
+sentencepiece
+numpy==1.22.0
