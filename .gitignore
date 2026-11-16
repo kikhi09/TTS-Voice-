@@ -61,3 +61,10 @@ __pycache__/
 .matplotlib/
 .vscode/
 backup_before_full_split/
+
+.matplotlib/
+__pycache__/
+*.py[cod]
+git-status.txt
+git-summary.txt
+tatus --short*
