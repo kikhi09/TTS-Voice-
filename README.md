@@ -125,6 +125,10 @@ D:\voiceapp\
 - **Key packages**: TTS 0.22.0, gradio 6.13.0, faster-whisper 1.2.1, soundfile 0.13.1, soxr 1.0.0
 
 ---
+## Problem Statement
+Preparing and organizing multi-emotion voice datasets for voice cloning models like Tacotron 2 and XTTS-v2 often involves juggling separate scripts for recording, renaming, resampling, transcribing, and formatting metadata. VoiceApp Studio brings dataset creation, audio preprocessing, transcription, local XTTS-v2 speech generation, and training export workflows into one interface.
+
+---
 
 ## Google Colab Training
 
